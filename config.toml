@@ -4,7 +4,7 @@ linkPrefix = "/gatsby-starter-documentation"
 docPages = [
   "/docs/",
   "/docs/getting-started/",
-  "/docs/how-to-run/",
+  "/docs/functional-programming/",
   "/docs/some-react-code/",
   "/docs/the-next-step/",
   "/docs/conclusion/",

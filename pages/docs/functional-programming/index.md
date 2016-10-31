@@ -1,5 +1,5 @@
 ---
-title: How to Run
+title: Functional Programming
 ---
 
 Mostly you need to move your legs and arms together in coordinated
