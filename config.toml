@@ -3,9 +3,9 @@ baseColor = "#884499"
 linkPrefix = "/gatsby-starter-documentation"
 docPages = [
   "/docs/",
-  "/docs/getting-started/",
   "/docs/functional-programming/",
+  "/docs/javascript/",
   "/docs/some-react-code/",
-  "/docs/the-next-step/",
-  "/docs/conclusion/",
+  "/docs/system-design/",
+  "/docs/web/",
 ]

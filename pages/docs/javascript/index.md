@@ -1,5 +1,5 @@
 ---
-title: Conclusion
+title: JavaScript
 ---
 
 You're probably getting pretty good at whatever thing we're explaining
