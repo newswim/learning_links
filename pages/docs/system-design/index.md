@@ -1,5 +1,5 @@
 ---
-title: The Next Step
+title: System Design and Architecture (UNIX/etc)
 ---
 
 ## Basically do this

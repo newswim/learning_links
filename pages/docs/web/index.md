@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: The Web Platform
 ---
 
 It's not hard, you've just got to give it a try!
