@@ -72,7 +72,7 @@ module.exports = React.createClass({
                   }}
                   href="https://github.com/gatsbyjs/gatsby"
                 >
-                  Github
+                  Gatsby.js
                 </a>
                 <Link
                   to={prefixLink('/examples/')}
@@ -89,7 +89,7 @@ module.exports = React.createClass({
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Examples
+                  Dump
                 </Link>
                 <Link
                   to={prefixLink('/docs/')}
@@ -106,7 +106,7 @@ module.exports = React.createClass({
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Documentation
+                  Subjects
                 </Link>
               </Span>
             </Grid>
