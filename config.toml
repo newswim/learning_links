@@ -1,6 +1,6 @@
 siteTitle="Article Archive"
 baseColor = "#884499"
-linkPrefix = "/gatsby-starter-documentation"
+linkPrefix = "/learning_links"
 docPages = [
   "/docs/",
   "/docs/functional-programming/",
