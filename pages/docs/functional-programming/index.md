@@ -12,3 +12,15 @@ title: Functional Programming
 - [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
 - [Why be functional? (by Rob Martin)](http://version2beta.com/articles/why_be_functional_post/)
 - [Design Patterns in Functional programming by Scott Wlaschin (#yt)](https://youtu.be/4jusLF_Xz7Q)
+
+## Type stuff
+
+- [Hindley–Milner Type System](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system)
+- [Hindley-Milner Inference](http://dev.stephendiehl.com/fun/006_hindley_milner.html)
+- [Haskell - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
+
+## Reactive Programming
+
+- [ReactiveX - Tutorials](http://reactivex.io/tutorials.html)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [RxMarbles](http://rxmarbles.com/)
