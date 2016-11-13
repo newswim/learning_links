@@ -25,3 +25,8 @@ title: Functional Programming
 - [ReactiveX - Tutorials](http://reactivex.io/tutorials.html)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [RxMarbles](http://rxmarbles.com/)
+
+#### Observables
+
+- [Understanding the observable type](http://nick.balestra.ch/2016/Understanding-the-observable-type/)
+- [Understanding the observable type pt.2](http://nick.balestra.ch/2016/creating-observables/)

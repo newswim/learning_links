@@ -14,7 +14,7 @@ title: JavaScript
 
 ##### Intermediate
 - [Eloquent Javascript](http://eloquentjavascript.net/)
-    - Significant leap in difficulty after chapter 3. Excellent resource! :star::star::star::star:
+    - Significant leap in difficulty after chapter 3. Excellent resource! 🌟🌟🌟🌟
 - [Art of Node](https://github.com/maxogden/art-of-node) - a short intro
 - [Nodeschool.io](http://nodeschool.io/) - Awesome command line workshops
 - [Functional JavaScript (repo)](https://github.com/jkup/functional-javascript)
